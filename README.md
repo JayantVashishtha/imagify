@@ -42,13 +42,12 @@ Follow these steps to set up the project locally:
    cd imagify
 2. **Install Dependencies**:
    command:- npm install
-   Set Up Environment Variables:
-
-3. Create a .env file in the root directory.
-   Add the following environment variables:
-    
-   NEXT_PUBLIC_API_URL=<Your Backend API URL>
-   AI_API_KEY=<Your AI Platform API Key>
+   
+3. Set Up Environment Variables:
+   Create a .env file in the root directory.
+   Add the following environment variables: 
+   NEXT_PUBLIC_API_URL= Your Backend API URL
+   AI_API_KEY= Your AI Platform API Key
    
 4. **Run the Development Server**:
    npm run dev
